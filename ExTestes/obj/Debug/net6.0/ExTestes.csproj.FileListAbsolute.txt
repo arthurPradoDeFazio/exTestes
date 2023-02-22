@@ -1,0 +1,15 @@
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/bin/Debug/net6.0/ExTestes
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/bin/Debug/net6.0/ExTestes.deps.json
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/bin/Debug/net6.0/ExTestes.runtimeconfig.json
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/bin/Debug/net6.0/ExTestes.dll
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/bin/Debug/net6.0/ExTestes.pdb
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.csproj.AssemblyReference.cache
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.AssemblyInfoInputs.cache
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.AssemblyInfo.cs
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.csproj.CoreCompileInputs.cache
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.dll
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/refint/ExTestes.dll
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.pdb
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ExTestes.genruntimeconfig.cache
+/Users/Arthur_Prado_De_Fazio/Projects/ExTestes/ExTestes/obj/Debug/net6.0/ref/ExTestes.dll
